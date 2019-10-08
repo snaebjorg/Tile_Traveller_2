@@ -4,7 +4,7 @@ EAST = 'e'
 SOUTH = 's'
 WEST = 'w'
 
-#Useless comment
+#Useless comment again
 
 def move(direction, col, row):
     ''' Returns updated col, row given the direction '''
